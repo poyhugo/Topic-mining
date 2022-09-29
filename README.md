@@ -1,2 +1,2 @@
 # Topic-mining
-Topic mining of book review.
+Topic mining of book reviews.
